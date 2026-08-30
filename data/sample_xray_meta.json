@@ -1,0 +1,12 @@
+{
+  "dataset_name": "OPG Dental Panoramic Radiograph Dataset",
+  "classes": [
+    "Dental Caries",
+    "Impacted Third Molar",
+    "Periapical Lesion",
+    "Periodontal Bone Loss",
+    "Healthy Normal"
+  ],
+  "image_dimensions": [224, 224, 3],
+  "total_annotated_samples": 4500
+}
